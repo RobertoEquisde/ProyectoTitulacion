@@ -20,6 +20,6 @@ El siguiente es un resumen del código:
 3. La interfaz de usuario de Streamlit se abrirá en su navegador web predeterminado.
 4. Ingrese su pregunta en el cuadro de texto y haga clic en "Enviar".
 5. La respuesta aparecerá en la misma página.
-6. Si el chatbot no puede responder a su pregunta, se le proporcionará un enlace para enviar la pregunta a través de un formulario de Google: https://forms.gle/YmpQqeLifvMDRymDA
+
 ## Archivo noramlizacion.py 
  se usa para normalizar el csv en caso de no estarlo
