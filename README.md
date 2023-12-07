@@ -1,6 +1,6 @@
 # CHATBOT-Titulacion
 
-Este proyecto es un chatbot creado con el propósito de ayudar a la comunidad de UPIICSA a obtener respuestas rápidas y eficientes a sus preguntas frecuentes. El código está construido utilizando Python, junto con las bibliotecas pandas, Streamlit, y Scikit-learn.
+Este proyecto es un chatbot creado con el propósito de ayudar a detectar el infarto al miocardio a obtener respuestas rápidas y eficientes a sus preguntas frecuentes. El código está construido utilizando Python, junto con las bibliotecas pandas, Streamlit, y Scikit-learn.
 
 ## Código
 
